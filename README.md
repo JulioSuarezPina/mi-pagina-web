@@ -1,4 +1,12 @@
-# Getting Started with Create React App
+# Este es un proyecto realizado por Julio Suárez
+
+Fue realizado para que mi información pueda ser consultada de manera visual y atractiva.
+
+La idea surge para poner en práctica mis conocimientos en REACT y desarollo web.
+
+Acceso al proyecto desplegado en su versión más actual: [Mi sitio web](https://juliosuarezp.000webhostapp.com/).
+
+# Para crear tu propia aplicación en React
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
